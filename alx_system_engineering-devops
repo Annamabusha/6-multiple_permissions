@@ -1,0 +1,7 @@
+julien@ubuntu:/tmp/h$ Is -1 total 8
+-rwxrw-r-- 1 julien julien 36 sep 20 1 4:31 6-multiple_permissions
+-r--r----- 1julien julien 23 sep 20 1 4:25 hello
+julien@ubuntu:/tmp/h$ Is -1 total 8
+-rwxrw-r-- 1 julien julien 36 sep 20 1 4:31 6-multiple_permissions
+-r--r----- 1 julien julien 23 sep 20 1 4:25 hello
+julien@ubuntu:/tmp/h$
